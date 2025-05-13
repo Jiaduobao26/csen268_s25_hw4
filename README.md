@@ -6,16 +6,16 @@ https://drive.google.com/file/d/1c2KaWxbSZ4cml3tZ5AnySePZwsRsCO8k/view?usp=drive
 
 ## Screenshots
 ### Login Page
-![alt text](demo_images/image.png)
+<img src="demo_images/image.png" alt="Login Page" width="300"/>
 
 ### By Author Page
-![alt text](demo_images/image-1.png)
+<img src="demo_images/image-1.png" alt="Login Page" width="300"/>
 
 ### By Title Page
-![alt text](/demo_images/image-2.png)
+<img src="demo_images/image-2.png" alt="Login Page" width="300"/>
 
 ### Profile Page
-![alt text](/demo_images/image-3.png)
+<img src="demo_images/image-3.png" alt="Login Page" width="300"/>
 
 ### Book Detail
-![alt text](/demo_images/image-4.png)
+<img src="demo_images/image-4.png" alt="Login Page" width="300"/>
