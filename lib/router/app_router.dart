@@ -37,6 +37,7 @@ class AppRouter {
         routes: [
           GoRoute(
             path: '/',
+            name: 'home', // add a name to the home route
             redirect: (_, __) => '/byAuthor',
           ),
           GoRoute(
